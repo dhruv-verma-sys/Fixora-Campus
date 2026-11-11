@@ -99,10 +99,6 @@ DB_PASSWORD=your_mysql_password
 DB_NAME=your_database_name
 ```
 
-Replace the placeholder values with your own MySQL configuration.
-
-**Note:** Never upload your `.env` file or database credentials to GitHub.
-
 ### 6. Start the Backend
 
 Open a terminal inside the `server` directory and run:
